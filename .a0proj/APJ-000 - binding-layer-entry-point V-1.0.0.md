@@ -35,7 +35,7 @@
 | 01 | `instructions/INS-001 - project-charter V-1.0.0.md` | One-sentence purpose, architectural stance, delivery phases, definition of done |
 | 02 | `instructions/INS-002 - governance-and-core-files V-1.0.0.md` | What the agent MUST NOT modify in framework core; how to handle deliberate framework patches |
 | 03 | `instructions/INS-003 - taxonomy V-1.0.0.md` | Where each artefact kind lives; modular-monolith invariant |
-| 04 | `instructions/INS-004 - git-and-remote-discipline V-1.0.0.md` | Branch, commit, push, tag, and secret-hygiene rules |
+| 04 | `instructions/INS-004 - git-and-remote-discipline V-1.1.0.md` | Branch, commit, push, tag, and secret-hygiene rules |
 | 05 | `instructions/INS-005 - decision-and-question-recording V-1.0.0.md` | ADR convention, `§GOV_OPEN§` sentinel, resolution lifecycle |
 
 These five files are the **behavioural contract** for any agent,
@@ -49,7 +49,7 @@ escalate.
 | Path | Role |
 |---|---|
 | `knowledge/main/KNO-000 - substrate-index V-1.0.0.md` | Substrate map: bounded contexts → specs, schemas, templates, tests, examples |
-| `knowledge/main/KNO-001 - open-questions-register V-1.0.0.md` | Active `§GOV_OPEN§` register (one row per open question) |
+| `knowledge/main/KNO-001 - open-questions-register V-1.1.0.md` | Active `§GOV_OPEN§` register (one row per open question) |
 
 `fragments/` and `solutions/` mirror the canonical layout for atomic
 recall and retrospective studies. They start as placeholders; populate
@@ -77,9 +77,9 @@ When the agent is asked to work in this project, the canonical sequence is:
 6. If a decision binds future work: raise an ADR via
    `instructions/INS-005 - decision-and-question-recording V-1.0.0.md`.
 7. If anything is unclear: tag a `§GOV_OPEN§` (per instruction 05 § 3.4)
-   and add a row to `knowledge/main/KNO-001 - open-questions-register V-1.0.0.md`.
+   and add a row to `knowledge/main/KNO-001 - open-questions-register V-1.1.0.md`.
 8. Commit on a feature branch per
-   `instructions/INS-004 - git-and-remote-discipline V-1.0.0.md`.
+   `instructions/INS-004 - git-and-remote-discipline V-1.1.0.md`.
 
 ## 6. What this layer is NOT
 

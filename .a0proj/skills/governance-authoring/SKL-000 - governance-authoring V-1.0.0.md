@@ -69,7 +69,7 @@ If the template requires fields you cannot answer:
 - Author what you can.
 - Tag each unanswered field with `§GOV_OPEN§ <field-name>` followed by
   the format defined in instruction 05 § 3.4.
-- Add a row to `.a0proj/knowledge/main/KNO-001 - open-questions-register V-1.0.0.md`.
+- Add a row to `.a0proj/knowledge/main/KNO-001 - open-questions-register V-1.1.0.md`.
 
 ### Step 5 — Validate against the project tooling
 
@@ -103,7 +103,7 @@ a gap). Update cross-references in:
 
 ### Step 8 — Commit on a feature branch
 
-Per `.a0proj/instructions/INS-004 - git-and-remote-discipline V-1.0.0.md`:
+Per `.a0proj/instructions/INS-004 - git-and-remote-discipline V-1.1.0.md`:
 
 - `feat/<context>-<short>` for new artefacts
 - `fix/<context>-<short>` for fixes

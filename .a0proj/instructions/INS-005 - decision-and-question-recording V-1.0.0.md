@@ -11,7 +11,7 @@
 | Record kind | Tag / format | Default location |
 |---|---|---|
 | **Decision** | ADR (see §2) | `docs/decisions/ADR-NNNN-title.md` |
-| **Open question** | `§GOV_OPEN§` line (see §3) | inline next to the artefact being questioned, plus a top-level `§GOV_OPEN§` register in `.a0proj/knowledge/main/KNO-001 - open-questions-register V-1.0.0.md` |
+| **Open question** | `§GOV_OPEN§` line (see §3) | inline next to the artefact being questioned, plus a top-level `§GOV_OPEN§` register in `.a0proj/knowledge/main/KNO-001 - open-questions-register V-1.1.0.md` |
 
 The presence of either record is part of the project substance. The
 absence of decisions is itself a defect.
@@ -127,7 +127,7 @@ historically, when answering similar future questions.
 ## 4. The open-questions register
 
 A single canonical register at
-`.a0proj/knowledge/main/KNO-001 - open-questions-register V-1.0.0.md` lists every active
+`.a0proj/knowledge/main/KNO-001 - open-questions-register V-1.1.0.md` lists every active
 `§GOV_OPEN§` in the project, with owner and "since" date:
 
 ```markdown

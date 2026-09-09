@@ -111,7 +111,7 @@ Read `tools/APJ-000 - binding-layer-entry-point V-1.0.0.md` for the canonical in
 
 Every active `§GOV_OPEN§` is logged at:
 
-- `.a0proj/knowledge/main/KNO-001 - open-questions-register V-1.0.0.md` — register
+- `.a0proj/knowledge/main/KNO-001 - open-questions-register V-1.1.0.md` — register
 
 Format and resolution rules: see
 `.a0proj/instructions/INS-005 - decision-and-question-recording V-1.0.0.md`.
@@ -132,6 +132,6 @@ decision tree.
 - Reading this index as authority rather than as a navigation aid.
 - Authoring artefacts in folders that don't have a row in §2.
 - Generating artefacts under `examples/` that depend on real
-  credentials (use env vars; see `INS-004 - git-and-remote-discipline V-1.0.0.md` §6).
+  credentials (use env vars; see `INS-004 - git-and-remote-discipline V-1.1.0.md` §6).
 - Treating `.a0proj/knowledge/` as a substitute for the actual
   artefacts in §1–§5.

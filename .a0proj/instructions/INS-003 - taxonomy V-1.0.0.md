@@ -1,7 +1,7 @@
 # 03 — Taxonomy: where each artefact type lives
 
 > Status: **Binding**. Authoring rule for any new file in this project.
-> Companion: `INS-001 - project-charter V-1.0.0.md`, `INS-004 - git-and-remote-discipline V-1.0.0.md`.
+> Companion: `INS-001 - project-charter V-1.0.0.md`, `INS-004 - git-and-remote-discipline V-1.1.0.md`.
 
 ---
 
