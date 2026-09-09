@@ -1,0 +1,64 @@
+document_type: request-manifest
+contract_version: "1.0"
+document_id: "REQ-YYYY-NNNN"
+status: draft
+
+objective: ""
+
+output_contract:
+  id: ""
+  version: ""
+
+scope:
+  include: []
+  exclude: []
+
+inputs:
+  required: []
+  optional: []
+  conditional: []
+  derived: []
+  prohibited: []
+
+context:
+  governing_documents: []
+  prior_artifacts: []
+  constraints: []
+  temporal_requirements: []
+
+authorization:
+  decision_owner: ""
+  final_approver: ""
+  approvals: []
+
+risk:
+  classification: routine
+  rationale: ""
+
+expected_outputs:
+  primary: []
+  supporting: []
+  evidence: []
+
+acceptance_criteria: []
+
+side_effects:
+  expected: []
+  prohibited: []
+
+idempotency:
+  key: ""
+  rerun_policy: ""
+  duplicate_behavior: ""
+
+rollback:
+  strategy: ""
+  verification: ""
+
+gates:
+  pre_submission: []
+  execution: []
+  post_execution: []
+  closure: []
+
+failure_conditions: []
